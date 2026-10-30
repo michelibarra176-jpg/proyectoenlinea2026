@@ -6,3 +6,5 @@ que se estara evaluando constantemente
 
  1. creacion del repositorio
  2. creacion de RedMe
+ 3. subir el sitio onlineshop
+ 4. personalizar encabezado
